@@ -15,7 +15,6 @@ def parti(arbitrarylist):
             else:
                 listonesum += i
                 listone.append(i)
-        print(listone, listtwo)
 
         if  listonesum == listtwosum:#checking if both list's sum is same or not
             return True
